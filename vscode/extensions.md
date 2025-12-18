@@ -114,7 +114,7 @@
 
 
 ## fix vscode problem
-1- PowerShell
-2- Get-ExecutionPolicy
-3- Set-ExecutionPolicy RemoteSigned
+- PowerShell
+- Get-ExecutionPolicy
+- Set-ExecutionPolicy RemoteSigned
 
