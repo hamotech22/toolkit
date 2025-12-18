@@ -1,23 +1,36 @@
-# 🌐 Useful Frameworks & Design Resources
+🌐 Useful Frameworks & Design Resources
 
 ### Front-End Frameworks
+- **Angular** – إطار عمل لتطوير تطبيقات ويب حديثة  
+- **Angular Material** – مكتبة مكونات Angular جاهزة وسهلة الاستخدام  
+- **React** – مكتبة لبناء واجهات المستخدم  
+- **Bootstrap** – فريمورك CSS لتصميم واجهات سريعة  
+- **Tailwind CSS** – فريمورك CSS مرن وحديث  
+- **MUI CSS** – فريمورك CSS خفيف وسهل الاستخدام  
+- **Ant Design** – مكتبة مكونات React  
+- **PrimeReact** – مكتبة مكونات جاهزة لـ React  
 
-* [Angular](https://angular.io/) – إطار عمل لتطوير تطبيقات ويب حديثة
-* [React](https://reactjs.org/) – مكتبة لبناء واجهات المستخدم
-* [Bootstrap](https://getbootstrap.com/) – فريمورك CSS لتصميم واجهات سريعة
-* [Tailwind CSS](https://tailwindcss.com/) – فريمورك CSS مرن وحديث
-* [MUI CSS](https://www.muicss.com/) – فريمورك CSS خفيف وسهل الاستخدام
-* [Ant Design](https://ant.design/components/overview) – مكتبة مكونات React
-* [PrimeReact](https://primereact.org/) – مكتبة مكونات جاهزة لـ React
+### Back-End Frameworks
+- **Laravel** – إطار عمل PHP لتطوير تطبيقات ويب قوية وسريعة  
 
 ### Icons & Graphics
-
-* [Font Awesome](https://fontawesome.com/) – أيقونات
-* [icon-icons](https://icon-icons.com/fr/) – أيقونات إضافية
-* [HiClipart](https://www.hiclipart.com/) – صور وخلفيات مجانية
-* [Storyset](https://storyset.com/) – رسومات متحركة وأيقونات SVG
+- **Font Awesome** – أيقونات  
+- **icon-icons** – أيقونات إضافية  
+- **HiClipart** – صور وخلفيات مجانية  
+- **Storyset** – رسومات متحركة وأيقونات SVG  
 
 ### UI/UX Inspiration & Builders
+- **Builder.io** – تصميم صفحات وتجربة المستخدم  
+- **Untitled UI** – تصميم واجهات تفاعلية جاهزة  
 
-* [Builder.io](https://www.builder.io/) – تصميم صفحات وتجربة المستخدم
-* [Untitled UI](https://www.untitledui.com/) – تصميم واجهات تفاعلية جاهزة
+### Animation & Interaction
+- **AOS (Animate On Scroll)** – مكتبة للرسوميات والتحريك أثناء التمرير  
+
+### Package Management
+- **npm** – مدير حزم JavaScript الرسمي لتثبيت المكتبات والحزم  
+
+### Additional Resources for Angular & React
+- **Tailwind UI** – مكونات واجهات جاهزة لتطبيقات Angular وReact  
+- **Storybook** – اختبار وتصميم المكونات بشكل مستقل  
+- **NgRx** – إدارة الحالة في تطبيقات Angular  
+- **RxJS** – التعامل مع البيانات المتزامنة والغير متزامنة في Angular  
