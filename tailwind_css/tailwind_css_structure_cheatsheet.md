@@ -167,6 +167,74 @@ xl:grid-cols-4
 
 ---
 
+
+
+
+
+
+# 🧱 Tailwind CSS – Grid Card Component
+
+هذا مثال كارت (Card) مقسم باستخدام **Grid** في Tailwind CSS – جاهز للاستخدام داخل أي مشروع.
+
+> ضع الكود داخل ملف HTML أو داخل أي صفحة Tailwind.
+
+---
+
+## ✨ Preview
+
+كروت مصفوفة في Grid – متوافقة مع الريسبونسيف (موبايل – تابلت – لابتوب)
+
+---
+
+## 📦 الكود
+
+```html
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
+  <!-- Card 1 -->
+  <div class="bg-white shadow-lg rounded-xl p-6 hover:shadow-xl transition">
+    <img src="https://via.placeholder.com/300x180" class="rounded-lg mb-4" />
+    <h2 class="text-xl font-bold mb-2">عنوان الكارت الأول</h2>
+    <p class="text-gray-600 text-sm mb-4">وصف بسيط للكارت باستخدام Tailwind CSS.</p>
+    <button class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg">اقرأ المزيد</button>
+  </div>
+
+  <!-- Card 2 -->
+  <div class="bg-white shadow-lg rounded-xl p-6 hover:shadow-xl transition">
+    <img src="https://via.placeholder.com/300x180" class="rounded-lg mb-4" />
+    <h2 class="text-xl font-bold mb-2">عنوان الكارت الثاني</h2>
+    <p class="text-gray-600 text-sm mb-4">كلام إضافي توضيحي عن الكارت.</p>
+    <button class="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg">ابدأ الآن</button>
+  </div>
+
+  <!-- Card 3 -->
+  <div class="bg-white shadow-lg rounded-xl p-6 hover:shadow-xl transition">
+    <img src="https://via.placeholder.com/300x180" class="rounded-lg mb-4" />
+    <h2 class="text-xl font-bold mb-2">عنوان الكارت الثالث</h2>
+    <p class="text-gray-600 text-sm mb-4">وصف مختصر للكارت الثالث.</p>
+    <button class="bg-purple-500 hover:bg-purple-600 text-white px-4 py-2 rounded-lg">تواصل معنا</button>
+  </div>
+</div>
+```
+
+---
+
+## 🎯 ملاحظات
+
+* الكود يستخدم Tailwind CDN – لا حاجة لأي إعداد إضافي.
+* تقدر تغيّر الصور – النصوص – الألوان حسب ذوقك.
+* مناسب للرفع في GitHub كملف README.md.
+
+---
+
+## 📌 هل تريد أيضًا مثال:
+
+* Landing Page كاملة؟
+* Login Form؟
+* Dashboard UI؟
+
+اكتب ما تريد وسأجهز لك نسخة Markdown فورًا 💙
+
+
 ## 🧠 الخلاصة
 ملخص سريع يثبت الفكرة الأساسية لتايلويند.
 - Tailwind بيعتمد على **Utility Classes**
